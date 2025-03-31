@@ -1,6 +1,15 @@
-# local-api-mcp-python
-MCP server for using the AdsPower LocalAPI
+# AdsPower LocalAPI MCP Server Python
+A Model Context Protocol server that AdsPower browser LocalAPI. This server enables LLMs to interact with start browser, create browser, update browser fingerprint config ...
 
+## Usage with Claude Desktop
+
+Talk to LLMs to create browser: `Create an Android UA browser using Chrome 134`
+
+![Claude desktop](./assets/claude-use.png)
+
+## Usage width Cursor
+
+![Cursor](./assets/cursor.png)
 
 ## System requirements
 
